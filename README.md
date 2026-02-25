@@ -33,6 +33,7 @@
                π            π                +                                             
 ```
 Thunderbird Kachina -> by SC9 making awesomeness possible since the early 2000s
+Me emere non potes; pulcherrima fingo
 
 <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
 <a href="https://www.pico8.com/" target="_blank"><img src="https://img.shields.io/badge/PICO--8-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAA...kSuQmCC" alt="PICO-8"></a>
