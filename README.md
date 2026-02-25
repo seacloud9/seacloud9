@@ -1,4 +1,4 @@
-thunderbird by SC9 making awesomeness possible since the early 2000s 
+
 ```
    ++                                                                                π++   
      ++++++++π      π     ππ       π    ππ            π          π  π    π    ++++++++     
@@ -32,6 +32,7 @@ thunderbird by SC9 making awesomeness possible since the early 2000s
   π   π               π       π   π  π      +++         π    π        π      π             
                π            π                +                                             
 ```
+Thunderbird Kachina -> by Voided SC9 making awesomeness possible since the early 2000s 
 
 <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
 <a href="https://www.pico8.com/" target="_blank"><img src="https://img.shields.io/badge/PICO--8-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAANlBMVEUAAAD///////////////////////////////////////////////////////////+XkrtaAAAADXRSTlMABN+o5NJkbgaNfdJ9+1WAp5ZAAAAkElEQVQY04WR2Q6AMAhDTYIKEQuv//SKeCJoDGFg4+5+SN+Bai2gS0GGFku46ILuSEQgGH0Cmo7CwYYzHLHHSQR9p0XQood1th0gXprl0C5a0n6FUNJx9mtGGMFxzy7My3rLHLBRtwFWW7Q29P+kZp0qmh/AAA36P9uTf+dC4sfxjjAAAAAElFTkSuQmCC" alt="PICO-8"></a>
