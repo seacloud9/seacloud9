@@ -51,6 +51,6 @@ Thunderbird Kachina -> by SC9 making awesomeness possible since the early 2000s
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"></a>
 
 <!-- ⭐ Custom Projects -->
-<a href="https://starcade9.github.io/os9-shell/index.html" target="_blank"><img src="https://img.shields.io/badge/starcade9OS-FF0050?style=for-the-badge&logo=github&logoColor=white" alt="starcade9OS"></a>
-<a href="https://starcade9.github.io/" target="_blank"><img src="https://img.shields.io/badge/Nova64-00E4FF?style=for-the-badge&logo=github&logoColor=white" alt="Nova64"></a>
-<a href="https://maigexr.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/m{ai}geXR-ccffc4?style=for-the-badge&logo=vercel&logoColor=black" alt="m{ai}geXR"></a>
+<a href="https://starcade9.github.io/os9-shell/index.html" target="_blank"><img src="https://img.shields.io/badge/stArcade9-OS-FF0050?style=for-the-badge&logo=github&logoColor=white" alt="stArcade9-OS"></a>
+<a href="https://starcade9.github.io/" target="_blank"><img src="https://img.shields.io/badge/Nova-64-00E4FF?style=for-the-badge&logo=github&logoColor=white" alt="Nova-64"></a>
+<a href="https://maigexr.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/m{ai}ge-XR-ccffc4?style=for-the-badge&logo=vercel&logoColor=black" alt="m{ai}ge-XR"></a>
