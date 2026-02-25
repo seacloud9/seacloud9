@@ -37,6 +37,9 @@ Thunderbird Kachina -> by SC9 making awesomeness possible since the early 2000s
 
 
 <a target="_blank" href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
+<a target="_blank" href="https://reactnative.dev" target="_blank"><img src="https://img.shields.io/badge/React--Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"></a>
+<a target="_blank" href="https://www.shopify.com" target="_blank"><img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"></a>
+<a target="_blank" href="https://stripe.com" target="_blank"><img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"></a>
 <a target="_blank" href="https://www.pico8.com/" target="_blank"><img src="https://img.shields.io/badge/PICO--8-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAA...kSuQmCC" alt="PICO-8"></a>
 <a target="_blank" href="https://processing.org/" target="_blank"><img src="https://img.shields.io/badge/ProcessingJS-000000?style=for-the-badge&logo=processingfoundation&logoColor=FFFFFF" alt="ProcessingJS"></a>
 <a target="_blank" href="https://aframe.io/" target="_blank"><img src="https://img.shields.io/badge/A--Frame-000000?style=for-the-badge&logo=aframe&logoColor=white" alt="A-Frame"></a>
@@ -54,3 +57,4 @@ Thunderbird Kachina -> by SC9 making awesomeness possible since the early 2000s
 <a target="_blank" href="https://starcade9.github.io/os9-shell/index.html" target="_blank"><img src="https://img.shields.io/badge/stArcade9-OS-FF0050?style=for-the-badge&logo=github&logoColor=white" alt="stArcade9-OS"></a>
 <a target="_blank" href="https://starcade9.github.io/" target="_blank"><img src="https://img.shields.io/badge/Nova-64-00E4FF?style=for-the-badge&logo=github&logoColor=white" alt="Nova-64"></a>
 <a target="_blank" href="https://maigexr.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/m{ai}ge-XR-ccffc4?style=for-the-badge&logo=vercel&logoColor=black" alt="m{ai}ge-XR"></a>
+
