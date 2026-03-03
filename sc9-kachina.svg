@@ -1,127 +1,142 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
+    <defs>
+      <!-- Animated Gradient mapping exactly to the bird's vertical coordinates -->
+      <linearGradient id="bottomUpGradient" gradientUnits="userSpaceOnUse" x1="0" y1="1280" x2="0" y2="80" spreadMethod="repeat">
+        <stop offset="0%" stop-color="#00ffff" />   <!-- Bright Neon Cyan -->
+        <stop offset="33%" stop-color="#33aaff" />  <!-- Bright Sky Blue -->
+        <stop offset="66%" stop-color="#0055ff" />  <!-- Vibrant Bright Blue -->
+        <stop offset="100%" stop-color="#00ffff" /> <!-- Back to Cyan for a seamless loop -->
+        <!-- Translating the gradient Y-axis upward to create a continuous scanning effect. 10x slower (30s) -->
+        <animateTransform attributeName="gradientTransform" type="translate" values="0,0; 0,-1200" dur="30s" repeatCount="indefinite" />
+      </linearGradient>
+    </defs>
+
     <style>
       /* CSS for the neon glow. Structural fonts are placed inline below for GitHub safety. */
       .ascii-line {
-        text-shadow: 0 0 5px #00ffff, 0 0 15px #0055ff, 0 0 25px #0022ff;
+        /* 5x brighter, stronger shadow to show up well against the new white background */
+        text-shadow: 0 0 4px rgba(0, 200, 255, 1), 0 0 12px rgba(0, 85, 255, 0.8), 0 0 25px rgba(0, 85, 255, 0.6);
         user-select: none;
       }
     </style>
 
-    <!-- Dark background -->
-    <rect width="100%" height="100%" fill="#02020a" />
+    <!-- White background -->
+    <rect width="100%" height="100%" fill="#ffffff" />
 
     <!-- 
-      FRAME 1 (ORIGINAL) 
-      Uses SMIL <animate> to toggle visibility. No JavaScript required.
+      ASCII ART GROUP
+      Applies the font formatting and the animated gradient fill.
     -->
-    <g font-family="'Courier New', Courier, monospace" font-size="13px" fill="#00ffff" visibility="visible">
-      <animate attributeName="visibility" values="visible;hidden;hidden;visible" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.4s" repeatCount="indefinite" />
-      <text x="145" y="80" xml:space="preserve" class="ascii-line">++                                                                                π++   </text>
-      <text x="145" y="94" xml:space="preserve" class="ascii-line">     ++++++++π      π     ππ       π    ππ            π          π  π    π    ++++++++     </text>
-      <text x="145" y="108" xml:space="preserve" class="ascii-line">  ππ    ×++++++++++++π      π         π  π           π             π  +++++++++++++        </text>
-      <text x="145" y="122" xml:space="preserve" class="ascii-line">      π    ++++++++++++++++       πππ     π     π π    π        ++++++++++++++++           </text>
-      <text x="145" y="136" xml:space="preserve" class="ascii-line"> π  π π    π π  ππ∞=-----++++            π             π    π ++++-----=∞π                π</text>
-      <text x="145" y="150" xml:space="preserve" class="ascii-line"> π ++++++++++++++++++------+++×  ππ   π   π                 ∞+++------++++++++++++++++++   </text>
-      <text x="145" y="164" xml:space="preserve" class="ascii-line">         ×++++++++++++-+-----+++π  π        πππ π  π       +++-------++++++++++++≠         </text>
-      <text x="145" y="178" xml:space="preserve" class="ascii-line">  π          π      ≈----------+++    π                  +++---------+÷   π            π   </text>
-      <text x="145" y="192" xml:space="preserve" class="ascii-line">     ++++++++++++++++++-×-------++++     ++π    ++     +++---------×++++++++++++++++++     </text>
-      <text x="145" y="206" xml:space="preserve" class="ascii-line">                 π   =+++++-------++++    +++++++    ++++-------++++++    ππ         π     </text>
-      <text x="145" y="220" xml:space="preserve" class="ascii-line">  π            ++++++++≠√ ++++------++++ π++   +++ ++++--------++ ∞√++++++++√ π    π      π</text>
-      <text x="145" y="234" xml:space="preserve" class="ascii-line">       π+++++++++++≈  ++++++∞+--------+++++ + +π+++++---------÷-+++++π π+++++++++++        </text>
-      <text x="145" y="248" xml:space="preserve" class="ascii-line">                   +++++++ ++++÷----------++ + ++-----------++++ ≠++++++≠π            π   π</text>
-      <text x="145" y="262" xml:space="preserve" class="ascii-line">      π        ++++++++  ++++ ++++---------++ ++---------++++ ++++  ++++++++               </text>
-      <text x="145" y="276" xml:space="preserve" class="ascii-line">   π π     π +         ++++ ++++ +++--+++---+++----+++-+++√≈+++π++++         +             </text>
-      <text x="145" y="290" xml:space="preserve" class="ascii-line">       π π   π     π=++≈   +++  ++ ++++++---SC9---++++++ ++  +++    +++           π π   π  </text>
-      <text x="145" y="304" xml:space="preserve" class="ascii-line">    π     π  π     + π    ++   ++ ++++  ++-------++  =+++ ++   ++ π   π∞        π          </text>
-      <text x="145" y="318" xml:space="preserve" class="ascii-line">                         +    ++π ++    ++-------++    ++  ++    +π π             π       π</text>
-      <text x="145" y="332" xml:space="preserve" class="ascii-line">      π          π    π      +   √+π  π +--------++÷    ++   +       π π π  π π          π </text>
-      <text x="145" y="346" xml:space="preserve" class="ascii-line">        π π       π  π         π +    +++×+-------+++   π+  π     π π    π      π          </text>
-      <text x="145" y="360" xml:space="preserve" class="ascii-line">    π π         π            π π     +++-+=+---+×---++∞π    π    π   π  π    π π  π π  π π </text>
-      <text x="145" y="374" xml:space="preserve" class="ascii-line">    π      ππ   π  π       π   π   ≈++----+÷+--+÷----+++  π ππ              π        π   ππ</text>
-      <text x="145" y="388" xml:space="preserve" class="ascii-line">               π    π     πππ π   +++++---+×-++×+---+++++     π π  π        π π π  π    π  </text>
-      <text x="145" y="402" xml:space="preserve" class="ascii-line">    πππ      π       π   π      π    +++---+=+××----++           ππ       π π           π  </text>
-      <text x="145" y="416" xml:space="preserve" class="ascii-line">        π    π   π     π    π       π +++---+-+---+++ π π  π  π         π    π     π π  ππ </text>
-      <text x="145" y="430" xml:space="preserve" class="ascii-line">    π                           π π π   ++---×---++π ππππ  π   π          π       π        </text>
-      <text x="145" y="444" xml:space="preserve" class="ascii-line">  π  π π  π        π   ππ     π          ++-----++=         π     ππ    π   ππ     ππ      </text>
-      <text x="145" y="458" xml:space="preserve" class="ascii-line"> π  π π     ππ       π                    ++---++   π π    ππ             π π    π      π  </text>
-      <text x="145" y="472" xml:space="preserve" class="ascii-line">      πππ       π     π        π  π  π     ++-++   π    ππ  π  π π     π    π      π       </text>
-      <text x="145" y="486" xml:space="preserve" class="ascii-line">  π   π               π       π   π  π      +++         π    π        π      π             </text>
-      <text x="145" y="500" xml:space="preserve" class="ascii-line">               π            π                +                                             </text>
+    <g font-family="'Courier New', Courier, monospace" font-size="13px" fill="url(#bottomUpGradient)">
+
+      <!-- FRAME 1 (ORIGINAL) -->
+      <g visibility="visible">
+        <animate attributeName="visibility" values="visible;hidden;hidden;visible" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.4s" repeatCount="indefinite" />
+              <text x="145" y="80" xml:space="preserve" class="ascii-line">++                                                                                π++   </text>
+              <text x="145" y="94" xml:space="preserve" class="ascii-line">     ++++++++π      π     ππ       π    ππ            π          π  π    π    ++++++++     </text>
+              <text x="145" y="108" xml:space="preserve" class="ascii-line">  ππ    ×++++++++++++π      π         π  π           π             π  +++++++++++++        </text>
+              <text x="145" y="122" xml:space="preserve" class="ascii-line">      π    ++++++++++++++++       πππ     π     π π    π        ++++++++++++++++           </text>
+              <text x="145" y="136" xml:space="preserve" class="ascii-line"> π  π π    π π  ππ∞=-----++++            π             π    π ++++-----=∞π                π</text>
+              <text x="145" y="150" xml:space="preserve" class="ascii-line"> π ++++++++++++++++++------+++×  ππ   π   π                 ∞+++------++++++++++++++++++   </text>
+              <text x="145" y="164" xml:space="preserve" class="ascii-line">         ×++++++++++++-+-----+++π  π        πππ π  π       +++-------++++++++++++≠         </text>
+              <text x="145" y="178" xml:space="preserve" class="ascii-line">  π          π      ≈----------+++    π                  +++---------+÷   π            π   </text>
+              <text x="145" y="192" xml:space="preserve" class="ascii-line">     ++++++++++++++++++-×-------++++     ++π    ++     +++---------×++++++++++++++++++     </text>
+              <text x="145" y="206" xml:space="preserve" class="ascii-line">                 π   =+++++-------++++    +++++++    ++++-------++++++    ππ         π     </text>
+              <text x="145" y="220" xml:space="preserve" class="ascii-line">  π            ++++++++≠√ ++++------++++ π++   +++ ++++--------++ ∞√++++++++√ π    π      π</text>
+              <text x="145" y="234" xml:space="preserve" class="ascii-line">       π+++++++++++≈  ++++++∞+--------+++++ + +π+++++---------÷-+++++π π+++++++++++        </text>
+              <text x="145" y="248" xml:space="preserve" class="ascii-line">                   +++++++ ++++÷----------++ + ++-----------++++ ≠++++++≠π            π   π</text>
+              <text x="145" y="262" xml:space="preserve" class="ascii-line">      π        ++++++++  ++++ ++++---------++ ++---------++++ ++++  ++++++++               </text>
+              <text x="145" y="276" xml:space="preserve" class="ascii-line">   π π     π +         ++++ ++++ +++--+++---+++----+++-+++√≈+++π++++         +             </text>
+              <text x="145" y="290" xml:space="preserve" class="ascii-line">       π π   π     π=++≈   +++  ++ ++++++---SC9---++++++ ++  +++    +++           π π   π  </text>
+              <text x="145" y="304" xml:space="preserve" class="ascii-line">    π     π  π     + π    ++   ++ ++++  ++-------++  =+++ ++   ++ π   π∞        π          </text>
+              <text x="145" y="318" xml:space="preserve" class="ascii-line">                         +    ++π ++    ++-------++    ++  ++    +π π             π       π</text>
+              <text x="145" y="332" xml:space="preserve" class="ascii-line">      π          π    π      +   √+π  π +--------++÷    ++   +       π π π  π π          π </text>
+              <text x="145" y="346" xml:space="preserve" class="ascii-line">        π π       π  π         π +    +++×+-------+++   π+  π     π π    π      π          </text>
+              <text x="145" y="360" xml:space="preserve" class="ascii-line">    π π         π            π π     +++-+=+---+×---++∞π    π    π   π  π    π π  π π  π π </text>
+              <text x="145" y="374" xml:space="preserve" class="ascii-line">    π      ππ   π  π       π   π   ≈++----+÷+--+÷----+++  π ππ              π        π   ππ</text>
+              <text x="145" y="388" xml:space="preserve" class="ascii-line">               π    π     πππ π   +++++---+×-++×+---+++++     π π  π        π π π  π    π  </text>
+              <text x="145" y="402" xml:space="preserve" class="ascii-line">    πππ      π       π   π      π    +++---+=+××----++           ππ       π π           π  </text>
+              <text x="145" y="416" xml:space="preserve" class="ascii-line">        π    π   π     π    π       π +++---+-+---+++ π π  π  π         π    π     π π  ππ </text>
+              <text x="145" y="430" xml:space="preserve" class="ascii-line">    π                           π π π   ++---×---++π ππππ  π   π          π       π        </text>
+              <text x="145" y="444" xml:space="preserve" class="ascii-line">  π  π π  π        π   ππ     π          ++-----++=         π     ππ    π   ππ     ππ      </text>
+              <text x="145" y="458" xml:space="preserve" class="ascii-line"> π  π π     ππ       π                    ++---++   π π    ππ             π π    π      π  </text>
+              <text x="145" y="472" xml:space="preserve" class="ascii-line">      πππ       π     π        π  π  π     ++-++   π    ππ  π  π π     π    π      π       </text>
+              <text x="145" y="486" xml:space="preserve" class="ascii-line">  π   π               π       π   π  π      +++         π    π        π      π             </text>
+              <text x="145" y="500" xml:space="preserve" class="ascii-line">               π            π                +                                             </text>
+            </g>
+
+            <!-- FRAME 2 (MATRIX GLITCH 1) -->
+            <g visibility="hidden">
+              <animate attributeName="visibility" values="hidden;visible;hidden;hidden" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.4s" repeatCount="indefinite" />
+              <text x="145" y="80" xml:space="preserve" class="ascii-line">+Z                                                                                π+Z   </text>
+              <text x="145" y="94" xml:space="preserve" class="ascii-line">     01010101π      π     XZ       π    XZ            π          π  π    π    01010101     </text>
+              <text x="145" y="108" xml:space="preserve" class="ascii-line">  XZ    *010101010101π      π         π  π           π             π  010101010101+        </text>
+              <text x="145" y="122" xml:space="preserve" class="ascii-line">      π    0101010101010101       XZπ     π     π π    π        0101010101010101           </text>
+              <text x="145" y="136" xml:space="preserve" class="ascii-line"> π  π π    π π  XZ∞=====-0101            π             π    π 0101=====-=∞π                π</text>
+              <text x="145" y="150" xml:space="preserve" class="ascii-line"> π 0101010101010101+Z======+Z+* XZ   π   π                 ∞+Z+======0101010101010101+Z   </text>
+              <text x="145" y="164" xml:space="preserve" class="ascii-line">         *010101010101-+=====+Z+π  π        XZπ π  π       +Z+=======010101010101≠         </text>
+              <text x="145" y="178" xml:space="preserve" class="ascii-line">  π          π      ~==========+Z+    π                  +Z+=========+÷   π            π   </text>
+              <text x="145" y="192" xml:space="preserve" class="ascii-line">     0101010101010101+Z-*=======0101     +Zπ    +Z     +Z+=========*0101010101010101+Z     </text>
+              <text x="145" y="206" xml:space="preserve" class="ascii-line">                 π   =0101+=======0101    0101+Z+    0101=======0101+Z    XZ         π     </text>
+              <text x="145" y="220" xml:space="preserve" class="ascii-line">  π            01010101≠√ 0101======0101 π+Z   +Z+ 0101========+Z ∞√01010101√ π    π      π</text>
+              <text x="145" y="234" xml:space="preserve" class="ascii-line">       π01010101+Z+~  0101+Z∞+========0101+ + +π0101+=========÷-0101+π π01010101+Z+        </text>
+              <text x="145" y="248" xml:space="preserve" class="ascii-line">                   0101+Z+ 0101÷==========+Z + +Z===========0101 ≠0101+Z+≠π            π   π</text>
+              <text x="145" y="262" xml:space="preserve" class="ascii-line">      π        01010101  0101 0101=========+Z +Z=========0101 0101  01010101               </text>
+              <text x="145" y="276" xml:space="preserve" class="ascii-line">   π π     π +         0101 0101 +Z+==+Z+===+Z+====+Z+=+Z+√~+Z+π0101         +             </text>
+              <text x="145" y="290" xml:space="preserve" class="ascii-line">       π π   π     π=+Z~   +Z+  +Z 0101+Z===SC9===0101+Z +Z  +Z+    +Z+           π π   π  </text>
+              <text x="145" y="304" xml:space="preserve" class="ascii-line">    π     π  π     + π    +Z   +Z 0101  +Z=======+Z  =+Z+ +Z   +Z π   π∞        π          </text>
+              <text x="145" y="318" xml:space="preserve" class="ascii-line">                         +    +Zπ +Z    +Z=======+Z    +Z  +Z    +π π             π       π</text>
+              <text x="145" y="332" xml:space="preserve" class="ascii-line">      π          π    π      +   √+π  π +========+Z÷    +Z   +       π π π  π π          π </text>
+              <text x="145" y="346" xml:space="preserve" class="ascii-line">        π π       π  π         π +    +Z+*+=======+Z+   π+  π     π π    π      π          </text>
+              <text x="145" y="360" xml:space="preserve" class="ascii-line">    π π         π            π π     +Z+-+=+===+*===+Z∞π    π    π   π  π    π π  π π  π π </text>
+              <text x="145" y="374" xml:space="preserve" class="ascii-line">    π      XZ   π  π       π   π   ~+Z====+÷+==+÷====+Z+  π XZ              π        π   XZ</text>
+              <text x="145" y="388" xml:space="preserve" class="ascii-line">               π    π     XZπ π   0101+===+*=+Z*+===0101+     π π  π        π π π  π    π  </text>
+              <text x="145" y="402" xml:space="preserve" class="ascii-line">    XZπ      π       π   π      π    +Z+===+=+**====+Z           XZ       π π           π  </text>
+              <text x="145" y="416" xml:space="preserve" class="ascii-line">        π    π   π     π    π       π +Z+===+-+===+Z+ π π  π  π         π    π     π π  XZ </text>
+              <text x="145" y="430" xml:space="preserve" class="ascii-line">    π                           π π π   +Z===*===+Zπ XZXZ  π   π          π       π        </text>
+              <text x="145" y="444" xml:space="preserve" class="ascii-line">  π  π π  π        π   XZ     π          +Z=====+Z=         π     XZ    π   XZ     XZ      </text>
+              <text x="145" y="458" xml:space="preserve" class="ascii-line"> π  π π     XZ       π                    +Z===+Z   π π    XZ             π π    π      π  </text>
+              <text x="145" y="472" xml:space="preserve" class="ascii-line">      XZπ       π     π        π  π  π     +Z-+Z   π    XZ  π  π π     π    π      π       </text>
+              <text x="145" y="486" xml:space="preserve" class="ascii-line">  π   π               π       π   π  π      +Z+         π    π        π      π             </text>
+              <text x="145" y="500" xml:space="preserve" class="ascii-line">               π            π                +                                             </text>
+            </g>
+
+            <!-- FRAME 3 (MATRIX GLITCH 2) -->
+            <g visibility="hidden">
+              <animate attributeName="visibility" values="hidden;hidden;visible;hidden" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.4s" repeatCount="indefinite" />
+              <text x="145" y="80" xml:space="preserve" class="ascii-line">1+                                                                                π1+   </text>
+              <text x="145" y="94" xml:space="preserve" class="ascii-line">     Z1Z1Z1Z1π      π     ZX       π    ZX            π          π  π    π    Z1Z1Z1Z1     </text>
+              <text x="145" y="108" xml:space="preserve" class="ascii-line">  ZX    *Z1Z1Z1Z1Z1Z1π      π         π  π           π             π  Z1Z1Z1Z1Z1Z1+        </text>
+              <text x="145" y="122" xml:space="preserve" class="ascii-line">      π    Z1Z1Z1Z1Z1Z1Z1Z1       ZXπ     π     π π    π        Z1Z1Z1Z1Z1Z1Z1Z1           </text>
+              <text x="145" y="136" xml:space="preserve" class="ascii-line"> π  π π    π π  ZX∞=~~~~~Z1Z1            π             π    π Z1Z1~~~~~=∞π                π</text>
+              <text x="145" y="150" xml:space="preserve" class="ascii-line"> π Z1Z1Z1Z1Z1Z1Z1Z11+~~~~~~1++* ZX   π   π                 ∞1++~~~~~~Z1Z1Z1Z1Z1Z1Z1Z11+   </text>
+              <text x="145" y="164" xml:space="preserve" class="ascii-line">         *Z1Z1Z1Z1Z1Z1-+~~~~~1++π  π        ZXπ π  π       1++~~~~~~~Z1Z1Z1Z1Z1Z1≠         </text>
+              <text x="145" y="178" xml:space="preserve" class="ascii-line">  π          π      ~~~~~~~~~~1++    π                  1++~~~~~~~~~+÷   π            π   </text>
+              <text x="145" y="192" xml:space="preserve" class="ascii-line">     Z1Z1Z1Z1Z1Z1Z1Z11+-*~~~~~~~Z1Z1     1+π    1+     1++~~~~~~~~~*Z1Z1Z1Z1Z1Z1Z1Z11+     </text>
+              <text x="145" y="206" xml:space="preserve" class="ascii-line">                 π   =Z1Z1+~~~~~~~Z1Z1    Z1Z11++    Z1Z1~~~~~~~Z1Z11+    ZX         π     </text>
+              <text x="145" y="220" xml:space="preserve" class="ascii-line">  π            Z1Z1Z1Z1≠√ Z1Z1~~~~~~Z1Z1 π1+   1++ Z1Z1~~~~~~~~1+ ∞√Z1Z1Z1Z1√ π    π      π</text>
+              <text x="145" y="234" xml:space="preserve" class="ascii-line">       πZ1Z1Z1Z11++~  Z1Z11+∞+~~~~~~~~Z1Z1+ + +πZ1Z1+~~~~~~~~~÷-Z1Z1+π πZ1Z1Z1Z11++        </text>
+              <text x="145" y="248" xml:space="preserve" class="ascii-line">                   Z1Z11++ Z1Z1÷~~~~~~~~~~1+ + 1+~~~~~~~~~~~Z1Z1 ≠Z1Z11++≠π            π   π</text>
+              <text x="145" y="262" xml:space="preserve" class="ascii-line">      π        Z1Z1Z1Z1  Z1Z1 Z1Z1~~~~~~~~~1+ 1+~~~~~~~~~Z1Z1 Z1Z1  Z1Z1Z1Z1               </text>
+              <text x="145" y="276" xml:space="preserve" class="ascii-line">   π π     π +         Z1Z1 Z1Z1 1++~~1++~~~1++~~~~1++~1++√~1++πZ1Z1         +             </text>
+              <text x="145" y="290" xml:space="preserve" class="ascii-line">       π π   π     π=1+~   1++  1+ Z1Z11+~~~SC9~~~Z1Z11+ 1+  1++    1++           π π   π  </text>
+              <text x="145" y="304" xml:space="preserve" class="ascii-line">    π     π  π     + π    1+   1+ Z1Z1  1+~~~~~~~1+  =1++ 1+   1+ π   π∞        π          </text>
+              <text x="145" y="318" xml:space="preserve" class="ascii-line">                         +    1+π 1+    1+~~~~~~~1+    1+  1+    +π π             π       π</text>
+              <text x="145" y="332" xml:space="preserve" class="ascii-line">      π          π    π      +   √+π  π +~~~~~~~~1+÷    1+   +       π π π  π π          π </text>
+              <text x="145" y="346" xml:space="preserve" class="ascii-line">        π π       π  π         π +    1++*+~~~~~~~1++   π+  π     π π    π      π          </text>
+              <text x="145" y="360" xml:space="preserve" class="ascii-line">    π π         π            π π     1++-+=+~~~+*~~~1+∞π    π    π   π  π    π π  π π  π π </text>
+              <text x="145" y="374" xml:space="preserve" class="ascii-line">    π      ZX   π  π       π   π   ~1+~~~~+÷+~~+÷~~~~1++  π ZX              π        π   ZX</text>
+              <text x="145" y="388" xml:space="preserve" class="ascii-line">               π    π     ZXπ π   Z1Z1+~~~+*~1+*+~~~Z1Z1+     π π  π        π π π  π    π  </text>
+              <text x="145" y="402" xml:space="preserve" class="ascii-line">    ZXπ      π       π   π      π    1++~~~+=+**~~~~1+           ZX       π π           π  </text>
+              <text x="145" y="416" xml:space="preserve" class="ascii-line">        π    π   π     π    π       π 1++~~~+-+~~~1++ π π  π  π         π    π     π π  ZX </text>
+              <text x="145" y="430" xml:space="preserve" class="ascii-line">    π                           π π π   1++~~~*~~~1+π ZXZX  π   π          π       π        </text>
+              <text x="145" y="444" xml:space="preserve" class="ascii-line">  π  π π  π        π   ZX     π          1+~~~~~1+=         π     ZX    π   ZX     ZX      </text>
+              <text x="145" y="458" xml:space="preserve" class="ascii-line"> π  π π     ZX       π                    1++~~~1+   π π    ZX             π π    π      π  </text>
+              <text x="145" y="472" xml:space="preserve" class="ascii-line">      ZXπ       π     π        π  π  π     1+-1+   π    ZX  π  π π     π    π      π       </text>
+              <text x="145" y="486" xml:space="preserve" class="ascii-line">  π   π               π       π   π  π      1++         π    π        π      π             </text>
+              <text x="145" y="500" xml:space="preserve" class="ascii-line">               π            π                +                                             </text>
+            </g>
+
     </g>
 
-    <!-- 
-      FRAME 2 (MATRIX GLITCH 1) 
-    -->
-    <g font-family="'Courier New', Courier, monospace" font-size="13px" fill="#00ffff" visibility="hidden">
-      <animate attributeName="visibility" values="hidden;visible;hidden;hidden" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.4s" repeatCount="indefinite" />
-      <text x="145" y="80" xml:space="preserve" class="ascii-line">+Z                                                                                π+Z   </text>
-      <text x="145" y="94" xml:space="preserve" class="ascii-line">     01010101π      π     XZ       π    XZ            π          π  π    π    01010101     </text>
-      <text x="145" y="108" xml:space="preserve" class="ascii-line">  XZ    *010101010101π      π         π  π           π             π  010101010101+        </text>
-      <text x="145" y="122" xml:space="preserve" class="ascii-line">      π    0101010101010101       XZπ     π     π π    π        0101010101010101           </text>
-      <text x="145" y="136" xml:space="preserve" class="ascii-line"> π  π π    π π  XZ∞=====-0101            π             π    π 0101=====-=∞π                π</text>
-      <text x="145" y="150" xml:space="preserve" class="ascii-line"> π 0101010101010101+Z======+Z+* XZ   π   π                 ∞+Z+======0101010101010101+Z   </text>
-      <text x="145" y="164" xml:space="preserve" class="ascii-line">         *010101010101-+=====+Z+π  π        XZπ π  π       +Z+=======010101010101≠         </text>
-      <text x="145" y="178" xml:space="preserve" class="ascii-line">  π          π      ~==========+Z+    π                  +Z+=========+÷   π            π   </text>
-      <text x="145" y="192" xml:space="preserve" class="ascii-line">     0101010101010101+Z-*=======0101     +Zπ    +Z     +Z+=========*0101010101010101+Z     </text>
-      <text x="145" y="206" xml:space="preserve" class="ascii-line">                 π   =0101+=======0101    0101+Z+    0101=======0101+Z    XZ         π     </text>
-      <text x="145" y="220" xml:space="preserve" class="ascii-line">  π            01010101≠√ 0101======0101 π+Z   +Z+ 0101========+Z ∞√01010101√ π    π      π</text>
-      <text x="145" y="234" xml:space="preserve" class="ascii-line">       π01010101+Z+~  0101+Z∞+========0101+ + +π0101+=========÷-0101+π π01010101+Z+        </text>
-      <text x="145" y="248" xml:space="preserve" class="ascii-line">                   0101+Z+ 0101÷==========+Z + +Z===========0101 ≠0101+Z+≠π            π   π</text>
-      <text x="145" y="262" xml:space="preserve" class="ascii-line">      π        01010101  0101 0101=========+Z +Z=========0101 0101  01010101               </text>
-      <text x="145" y="276" xml:space="preserve" class="ascii-line">   π π     π +         0101 0101 +Z+==+Z+===+Z+====+Z+=+Z+√~+Z+π0101         +             </text>
-      <text x="145" y="290" xml:space="preserve" class="ascii-line">       π π   π     π=+Z~   +Z+  +Z 0101+Z===SC9===0101+Z +Z  +Z+    +Z+           π π   π  </text>
-      <text x="145" y="304" xml:space="preserve" class="ascii-line">    π     π  π     + π    +Z   +Z 0101  +Z=======+Z  =+Z+ +Z   +Z π   π∞        π          </text>
-      <text x="145" y="318" xml:space="preserve" class="ascii-line">                         +    +Zπ +Z    +Z=======+Z    +Z  +Z    +π π             π       π</text>
-      <text x="145" y="332" xml:space="preserve" class="ascii-line">      π          π    π      +   √+π  π +========+Z÷    +Z   +       π π π  π π          π </text>
-      <text x="145" y="346" xml:space="preserve" class="ascii-line">        π π       π  π         π +    +Z+*+=======+Z+   π+  π     π π    π      π          </text>
-      <text x="145" y="360" xml:space="preserve" class="ascii-line">    π π         π            π π     +Z+-+=+===+*===+Z∞π    π    π   π  π    π π  π π  π π </text>
-      <text x="145" y="374" xml:space="preserve" class="ascii-line">    π      XZ   π  π       π   π   ~+Z====+÷+==+÷====+Z+  π XZ              π        π   XZ</text>
-      <text x="145" y="388" xml:space="preserve" class="ascii-line">               π    π     XZπ π   0101+===+*=+Z*+===0101+     π π  π        π π π  π    π  </text>
-      <text x="145" y="402" xml:space="preserve" class="ascii-line">    XZπ      π       π   π      π    +Z+===+=+**====+Z           XZ       π π           π  </text>
-      <text x="145" y="416" xml:space="preserve" class="ascii-line">        π    π   π     π    π       π +Z+===+-+===+Z+ π π  π  π         π    π     π π  XZ </text>
-      <text x="145" y="430" xml:space="preserve" class="ascii-line">    π                           π π π   +Z===*===+Zπ XZXZ  π   π          π       π        </text>
-      <text x="145" y="444" xml:space="preserve" class="ascii-line">  π  π π  π        π   XZ     π          +Z=====+Z=         π     XZ    π   XZ     XZ      </text>
-      <text x="145" y="458" xml:space="preserve" class="ascii-line"> π  π π     XZ       π                    +Z===+Z   π π    XZ             π π    π      π  </text>
-      <text x="145" y="472" xml:space="preserve" class="ascii-line">      XZπ       π     π        π  π  π     +Z-+Z   π    XZ  π  π π     π    π      π       </text>
-      <text x="145" y="486" xml:space="preserve" class="ascii-line">  π   π               π       π   π  π      +Z+         π    π        π      π             </text>
-      <text x="145" y="500" xml:space="preserve" class="ascii-line">               π            π                +                                             </text>
-    </g>
-
-    <!-- 
-      FRAME 3 (MATRIX GLITCH 2) 
-    -->
-    <g font-family="'Courier New', Courier, monospace" font-size="13px" fill="#00ffff" visibility="hidden">
-      <animate attributeName="visibility" values="hidden;hidden;visible;hidden" keyTimes="0;0.333;0.666;1" calcMode="discrete" dur="0.4s" repeatCount="indefinite" />
-      <text x="145" y="80" xml:space="preserve" class="ascii-line">1+                                                                                π1+   </text>
-      <text x="145" y="94" xml:space="preserve" class="ascii-line">     Z1Z1Z1Z1π      π     ZX       π    ZX            π          π  π    π    Z1Z1Z1Z1     </text>
-      <text x="145" y="108" xml:space="preserve" class="ascii-line">  ZX    *Z1Z1Z1Z1Z1Z1π      π         π  π           π             π  Z1Z1Z1Z1Z1Z1+        </text>
-      <text x="145" y="122" xml:space="preserve" class="ascii-line">      π    Z1Z1Z1Z1Z1Z1Z1Z1       ZXπ     π     π π    π        Z1Z1Z1Z1Z1Z1Z1Z1           </text>
-      <text x="145" y="136" xml:space="preserve" class="ascii-line"> π  π π    π π  ZX∞=~~~~~Z1Z1            π             π    π Z1Z1~~~~~=∞π                π</text>
-      <text x="145" y="150" xml:space="preserve" class="ascii-line"> π Z1Z1Z1Z1Z1Z1Z1Z11+~~~~~~1++* ZX   π   π                 ∞1++~~~~~~Z1Z1Z1Z1Z1Z1Z1Z11+   </text>
-      <text x="145" y="164" xml:space="preserve" class="ascii-line">         *Z1Z1Z1Z1Z1Z1-+~~~~~1++π  π        ZXπ π  π       1++~~~~~~~Z1Z1Z1Z1Z1Z1≠         </text>
-      <text x="145" y="178" xml:space="preserve" class="ascii-line">  π          π      ~~~~~~~~~~1++    π                  1++~~~~~~~~~+÷   π            π   </text>
-      <text x="145" y="192" xml:space="preserve" class="ascii-line">     Z1Z1Z1Z1Z1Z1Z1Z11+-*~~~~~~~Z1Z1     1+π    1+     1++~~~~~~~~~*Z1Z1Z1Z1Z1Z1Z1Z11+     </text>
-      <text x="145" y="206" xml:space="preserve" class="ascii-line">                 π   =Z1Z1+~~~~~~~Z1Z1    Z1Z11++    Z1Z1~~~~~~~Z1Z11+    ZX         π     </text>
-      <text x="145" y="220" xml:space="preserve" class="ascii-line">  π            Z1Z1Z1Z1≠√ Z1Z1~~~~~~Z1Z1 π1+   1++ Z1Z1~~~~~~~~1+ ∞√Z1Z1Z1Z1√ π    π      π</text>
-      <text x="145" y="234" xml:space="preserve" class="ascii-line">       πZ1Z1Z1Z11++~  Z1Z11+∞+~~~~~~~~Z1Z1+ + +πZ1Z1+~~~~~~~~~÷-Z1Z1+π πZ1Z1Z1Z11++        </text>
-      <text x="145" y="248" xml:space="preserve" class="ascii-line">                   Z1Z11++ Z1Z1÷~~~~~~~~~~1+ + 1+~~~~~~~~~~~Z1Z1 ≠Z1Z11++≠π            π   π</text>
-      <text x="145" y="262" xml:space="preserve" class="ascii-line">      π        Z1Z1Z1Z1  Z1Z1 Z1Z1~~~~~~~~~1+ 1+~~~~~~~~~Z1Z1 Z1Z1  Z1Z1Z1Z1               </text>
-      <text x="145" y="276" xml:space="preserve" class="ascii-line">   π π     π +         Z1Z1 Z1Z1 1++~~1++~~~1++~~~~1++~1++√~1++πZ1Z1         +             </text>
-      <text x="145" y="290" xml:space="preserve" class="ascii-line">       π π   π     π=1+~   1++  1+ Z1Z11+~~~SC9~~~Z1Z11+ 1+  1++    1++           π π   π  </text>
-      <text x="145" y="304" xml:space="preserve" class="ascii-line">    π     π  π     + π    1+   1+ Z1Z1  1+~~~~~~~1+  =1++ 1+   1+ π   π∞        π          </text>
-      <text x="145" y="318" xml:space="preserve" class="ascii-line">                         +    1+π 1+    1+~~~~~~~1+    1+  1+    +π π             π       π</text>
-      <text x="145" y="332" xml:space="preserve" class="ascii-line">      π          π    π      +   √+π  π +~~~~~~~~1+÷    1+   +       π π π  π π          π </text>
-      <text x="145" y="346" xml:space="preserve" class="ascii-line">        π π       π  π         π +    1++*+~~~~~~~1++   π+  π     π π    π      π          </text>
-      <text x="145" y="360" xml:space="preserve" class="ascii-line">    π π         π            π π     1++-+=+~~~+*~~~1+∞π    π    π   π  π    π π  π π  π π </text>
-      <text x="145" y="374" xml:space="preserve" class="ascii-line">    π      ZX   π  π       π   π   ~1+~~~~+÷+~~+÷~~~~1++  π ZX              π        π   ZX</text>
-      <text x="145" y="388" xml:space="preserve" class="ascii-line">               π    π     ZXπ π   Z1Z1+~~~+*~1+*+~~~Z1Z1+     π π  π        π π π  π    π  </text>
-      <text x="145" y="402" xml:space="preserve" class="ascii-line">    ZXπ      π       π   π      π    1++~~~+=+**~~~~1+           ZX       π π           π  </text>
-      <text x="145" y="416" xml:space="preserve" class="ascii-line">        π    π   π     π    π       π 1++~~~+-+~~~1++ π π  π  π         π    π     π π  ZX </text>
-      <text x="145" y="430" xml:space="preserve" class="ascii-line">    π                           π π π   1++~~~*~~~1+π ZXZX  π   π          π       π        </text>
-      <text x="145" y="444" xml:space="preserve" class="ascii-line">  π  π π  π        π   ZX     π          1+~~~~~1+=         π     ZX    π   ZX     ZX      </text>
-      <text x="145" y="458" xml:space="preserve" class="ascii-line"> π  π π     ZX       π                    1++~~~1+   π π    ZX             π π    π      π  </text>
-      <text x="145" y="472" xml:space="preserve" class="ascii-line">      ZXπ       π     π        π  π  π     1+-1+   π    ZX  π  π π     π    π      π       </text>
-      <text x="145" y="486" xml:space="preserve" class="ascii-line">  π   π               π       π   π  π      1++         π    π        π      π             </text>
-      <text x="145" y="500" xml:space="preserve" class="ascii-line">               π            π                +                                             </text>
-    </g>
   </svg>
