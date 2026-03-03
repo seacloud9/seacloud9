@@ -33,7 +33,7 @@
 <a href="https://cables.gl" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/cables.gl-0A0F1F?style=for-the-badge&logo=webgl&logoColor=FF00F5" /></a>
 <a href="https://www.comfy.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ComfyUI-0A0F1F?style=for-the-badge&logo=python&logoColor=00F5FF" /></a>
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Raspberry--Pi-0A0F1F?style=for-the-badge&logo=raspberrypi&logoColor=FF00F5" /></a>
-<a href="#"><img src="https://img.shields.io/badge/OpenClaw-0A0F1F?style=for-the-badge&logo=robotframework&logoColor=00F5FF" /></a>
+<a href="https://github.com/openclaw/openclaw" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenClaw-0A0F1F?style=for-the-badge&logo=robotframework&logoColor=00F5FF" /></a>
 
 ---
 
