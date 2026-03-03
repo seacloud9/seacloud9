@@ -25,67 +25,6 @@
 
 ---
 
-## 🧠 Languages & Runtime
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TypeScript-0A0F1F?style=for-the-badge&logo=typescript&logoColor=00F5FF" /></a>
-<a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Node.js-0A0F1F?style=for-the-badge&logo=node.js&logoColor=00F5FF" /></a>
-<a href="https://deno.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Deno-0A0F1F?style=for-the-badge&logo=deno&logoColor=FF00F5" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Rust-0A0F1F?style=for-the-badge&logo=rust&logoColor=FF00F5" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Swift-0A0F1F?style=for-the-badge&logo=swift&logoColor=FF00F5" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kotlin-0A0F1F?style=for-the-badge&logo=kotlin&logoColor=FF00F5" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-0A0F1F?style=for-the-badge&logo=python&logoColor=00F5FF" /></a>
-<a href="https://haxe.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Haxe-0A0F1F?style=for-the-badge&logo=haxe&logoColor=FF00F5" /></a>
-<a href="https://www.lua.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Lua-0A0F1F?style=for-the-badge&logo=lua&logoColor=00F5FF" /></a>
-<a href="https://www.ruby-lang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ruby-0A0F1F?style=for-the-badge&logo=ruby&logoColor=FF00F5" /></a>
-<a href="https://htmx.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HTMX-0A0F1F?style=for-the-badge&logo=htmx&logoColor=00F5FF" /></a>
-
----
-
-## 🗂 State Management
-
-<a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Redux-0A0F1F?style=for-the-badge&logo=redux&logoColor=00F5FF" /></a>
-<a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Zustand-0A0F1F?style=for-the-badge&logo=react&logoColor=FF00F5" /></a>
-<a href="https://mobx.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MobX-0A0F1F?style=for-the-badge&logo=mobx&logoColor=00F5FF" /></a>
-
----
-
-## 🗄 CMS & Content Platforms
-
-<a href="https://www.contentful.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Contentful-0A0F1F?style=for-the-badge&logo=contentful&logoColor=00F5FF" /></a>
-<a href="https://www.contentstack.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Contentstack-0A0F1F?style=for-the-badge&logo=contentstack&logoColor=FF00F5" /></a>
-<a href="https://strapi.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Strapi-0A0F1F?style=for-the-badge&logo=strapi&logoColor=00F5FF" /></a>
-<a href="https://airtable.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Airtable-0A0F1F?style=for-the-badge&logo=airtable&logoColor=FF00F5" /></a>
-
----
-
-## ☁ Cloud & AI Infrastructure
-
-<a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HuggingFace-0A0F1F?style=for-the-badge&logo=huggingface&logoColor=00F5FF" /></a>
-<a href="https://aws.amazon.com/bedrock/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS--Bedrock-0A0F1F?style=for-the-badge&logo=amazonaws&logoColor=FF00F5" /></a>
-<a href="https://www.together.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Together--AI-0A0F1F?style=for-the-badge&logo=ai&logoColor=00F5FF" /></a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Azure-0A0F1F?style=for-the-badge&logo=microsoftazure&logoColor=FF00F5" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS-0A0F1F?style=for-the-badge&logo=amazonaws&logoColor=00F5FF" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GCP-0A0F1F?style=for-the-badge&logo=googlecloud&logoColor=FF00F5" /></a>
-
----
-
-## 🗄 Data
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MongoDB-0A0F1F?style=for-the-badge&logo=mongodb&logoColor=00F5FF" /></a>
-<a href="https://supabase.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Supabase-0A0F1F?style=for-the-badge&logo=supabase&logoColor=FF00F5" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-0A0F1F?style=for-the-badge&logo=postgresql&logoColor=00F5FF" /></a>
-
----
-
-## 🔌 APIs & Realtime
-
-<a href="https://graphql.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GraphQL-0A0F1F?style=for-the-badge&logo=graphql&logoColor=FF00F5" /></a>
-<a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/REST-0A0F1F?style=for-the-badge&logo=fastapi&logoColor=00F5FF" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSockets-0A0F1F?style=for-the-badge&logo=socket.io&logoColor=FF00F5" /></a>
-<a href="https://webrtc.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebRTC-0A0F1F?style=for-the-badge&logo=webrtc&logoColor=00F5FF" /></a>
-
----
-
 ## 🛠 Creative & AI Tools
 
 <a href="https://www.pico8.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PICO--8-0A0F1F?style=for-the-badge&logo=lua&logoColor=FF00F5" /></a>
@@ -93,17 +32,24 @@
 <a href="https://processing.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ProcessingJS-0A0F1F?style=for-the-badge&logo=processingfoundation&logoColor=00F5FF" /></a>
 <a href="https://cables.gl" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/cables.gl-0A0F1F?style=for-the-badge&logo=webgl&logoColor=FF00F5" /></a>
 <a href="https://www.comfy.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ComfyUI-0A0F1F?style=for-the-badge&logo=python&logoColor=00F5FF" /></a>
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Raspberry--Pi-0A0F1F?style=for-the-badge&logo=raspberrypi&logoColor=FF00F5" /></a>
+<a href="#"><img src="https://img.shields.io/badge/OpenClaw-0A0F1F?style=for-the-badge&logo=robotframework&logoColor=00F5FF" /></a>
 
 ---
-## 🎮 Game Engines 
-<a href="https://unity.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Unity-0A0F1F?style=for-the-badge&logo=unity&logoColor=00F5FF" /></a> 
-<a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Godot-0A0F1F?style=for-the-badge&logo=godotengine&logoColor=00F5FF" /></a> 
+
+## 🎮 Game Engines
+
+<a href="https://unity.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Unity-0A0F1F?style=for-the-badge&logo=unity&logoColor=00F5FF" /></a>
+<a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Godot-0A0F1F?style=for-the-badge&logo=godotengine&logoColor=00F5FF" /></a>
 <a href="https://www.unrealengine.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Unreal--Engine-0A0F1F?style=for-the-badge&logo=unrealengine&logoColor=FF00F5" /></a>
+
+---
 
 ## 💳 Commerce
 
 <a href="https://www.shopify.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Shopify-0A0F1F?style=for-the-badge&logo=shopify&logoColor=00F5FF" /></a>
 <a href="https://stripe.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stripe-0A0F1F?style=for-the-badge&logo=stripe&logoColor=FF00F5" /></a>
+<a href="https://www.paypal.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PayPal-0A0F1F?style=for-the-badge&logo=paypal&logoColor=00F5FF" /></a>
 
 ---
 
