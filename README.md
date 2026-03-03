@@ -4,24 +4,107 @@
 Me emere non potes; pulcherrima fingo
 
 
+<!-- ===== STARCADE9 NEON STACK ===== -->
 
-<a target="_blank" href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
-<a target="_blank" href="https://reactnative.dev" target="_blank"><img src="https://img.shields.io/badge/React--Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"></a>
-<a target="_blank" href="https://www.shopify.com" target="_blank"><img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"></a>
-<a target="_blank" href="https://stripe.com" target="_blank"><img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"></a>
-<a target="_blank" href="https://www.pico8.com/" target="_blank"><img src="https://img.shields.io/badge/PICO--8-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAA...kSuQmCC" alt="PICO-8"></a>
-<a target="_blank" href="https://processing.org/" target="_blank"><img src="https://img.shields.io/badge/ProcessingJS-000000?style=for-the-badge&logo=processingfoundation&logoColor=FFFFFF" alt="ProcessingJS"></a>
-<a target="_blank" href="https://aframe.io/" target="_blank"><img src="https://img.shields.io/badge/A--Frame-000000?style=for-the-badge&logo=aframe&logoColor=white" alt="A-Frame"></a>
-<a target="_blank" href="https://threejs.org/" target="_blank"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"></a>
-<a target="_blank" href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank"><img src="https://img.shields.io/badge/R3F-292929?style=for-the-badge&logo=react&logoColor=white" alt="React Three Fiber"></a>
-<a target="_blank" href="https://www.babylonjs.com/" target="_blank"><img src="https://img.shields.io/badge/Babylon.js-BB464B?style=for-the-badge&logo=babylon.js&logoColor=white" alt="BabylonJS"></a>
-<a target="_blank" href="https://github.com/brianzinn/react-babylonjs" target="_blank"><img src="https://img.shields.io/badge/react--babylonjs-292929?style=for-the-badge&logo=react&logoColor=white" alt="react-babylonjs"></a>
-<a target="_blank" href="https://cables.gl" target="_blank"><img src="https://img.shields.io/badge/cables.gl-FF5500?style=for-the-badge&logo=cables.gl&logoColor=white" alt="cablesGL"></a>
-<a target="_blank" href="https://www.comfy.org" target="_blank"><img src="https://img.shields.io/badge/ComfyUI-111111?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUAAAD///////////////////////////////////////////////////////////+XkrtaAAAADXRSTlMABN+o5NJkbgaNfdJ9+1WAp5ZAAAAkElEQVQY04WR2Q6AMAhDTYIKEQuv//SKeCJoDGFg4+5+SN+Bai2gS0GGFku46ILuSEQgGH0Cmo7CwYYzHLHHSQR9p0XQood1th0gXprl0C5a0n6FUNJx9mtGGMFxzy7My3rLHLBRtwFWW7Q29P+kZp0qmh/AAA36P9uTf+dC4sfxjjAAAAAElFTkSuQmCC" alt="ComfyUI"></a>
-<a target="_blank" href="https://www.unrealengine.com/" target="_blank"><img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"></a>
-<a target="_blank" href="https://godotengine.org/" target="_blank"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"></a>
-<a target="_blank" href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"></a>  
+<!-- Core Web / XR -->
+<a target="_blank" href="https://react.dev">
+  <img src="https://img.shields.io/badge/React-0A0F1F?style=for-the-badge&logo=react&logoColor=00F5FF" />
+</a>
+<a target="_blank" href="https://reactnative.dev">
+  <img src="https://img.shields.io/badge/React--Native-0A0F1F?style=for-the-badge&logo=react&logoColor=00F5FF" />
+</a>
+<a target="_blank" href="https://aframe.io/">
+  <img src="https://img.shields.io/badge/A--Frame-0A0F1F?style=for-the-badge&logo=aframe&logoColor=00F5FF" />
+</a>
+<a target="_blank" href="https://threejs.org/">
+  <img src="https://img.shields.io/badge/Three.js-0A0F1F?style=for-the-badge&logo=three.js&logoColor=00F5FF" />
+</a>
+<a target="_blank" href="https://www.babylonjs.com/">
+  <img src="https://img.shields.io/badge/Babylon.js-0A0F1F?style=for-the-badge&logo=babylon.js&logoColor=FF00F5" />
+</a>
+<a target="_blank" href="https://docs.pmnd.rs/react-three-fiber/">
+  <img src="https://img.shields.io/badge/R3F-0A0F1F?style=for-the-badge&logo=react&logoColor=00F5FF" />
+</a>
+<a target="_blank" href="https://github.com/brianzinn/react-babylonjs">
+  <img src="https://img.shields.io/badge/react--babylonjs-0A0F1F?style=for-the-badge&logo=react&logoColor=FF00F5" />
+</a>
 
+<!-- Commerce / Infra -->
+<a target="_blank" href="https://www.shopify.com">
+  <img src="https://img.shields.io/badge/Shopify-0A0F1F?style=for-the-badge&logo=shopify&logoColor=00F5FF" />
+</a>
+<a target="_blank" href="https://stripe.com">
+  <img src="https://img.shields.io/badge/Stripe-0A0F1F?style=for-the-badge&logo=stripe&logoColor=FF00F5" />
+</a>
+
+<!-- App Platforms -->
+<a target="_blank" href="https://capacitorjs.com/">
+  <img src="https://img.shields.io/badge/Capacitor-0A0F1F?style=for-the-badge&logo=capacitor&logoColor=00F5FF" />
+</a>
+<a target="_blank" href="https://www.electronjs.org/">
+  <img src="https://img.shields.io/badge/Electron-0A0F1F?style=for-the-badge&logo=electron&logoColor=00F5FF" />
+</a>
+<a target="_blank" href="https://flutter.dev/">
+  <img src="https://img.shields.io/badge/Flutter-0A0F1F?style=for-the-badge&logo=flutter&logoColor=00F5FF" />
+</a>
+
+<!-- Languages -->
+<a target="_blank" href="https://www.typescriptlang.org/">
+  <img src="https://img.shields.io/badge/TypeScript-0A0F1F?style=for-the-badge&logo=typescript&logoColor=00F5FF" />
+</a>
+<a target="_blank" href="https://nodejs.org/">
+  <img src="https://img.shields.io/badge/Node.js-0A0F1F?style=for-the-badge&logo=node.js&logoColor=00F5FF" />
+</a>
+<a target="_blank" href="https://deno.com/">
+  <img src="https://img.shields.io/badge/Deno-0A0F1F?style=for-the-badge&logo=deno&logoColor=FF00F5" />
+</a>
+<a target="_blank" href="https://www.rust-lang.org/">
+  <img src="https://img.shields.io/badge/Rust-0A0F1F?style=for-the-badge&logo=rust&logoColor=FF00F5" />
+</a>
+<a target="_blank" href="https://developer.apple.com/swift/">
+  <img src="https://img.shields.io/badge/Swift-0A0F1F?style=for-the-badge&logo=swift&logoColor=FF00F5" />
+</a>
+<a target="_blank" href="https://kotlinlang.org/">
+  <img src="https://img.shields.io/badge/Kotlin-0A0F1F?style=for-the-badge&logo=kotlin&logoColor=FF00F5" />
+</a>
+
+<!-- State Management -->
+<a target="_blank" href="https://redux.js.org/">
+  <img src="https://img.shields.io/badge/Redux-0A0F1F?style=for-the-badge&logo=redux&logoColor=00F5FF" />
+</a>
+<a target="_blank" href="https://zustand-demo.pmnd.rs/">
+  <img src="https://img.shields.io/badge/Zustand-0A0F1F?style=for-the-badge&logo=react&logoColor=FF00F5" />
+</a>
+<a target="_blank" href="https://mobx.js.org/">
+  <img src="https://img.shields.io/badge/MobX-0A0F1F?style=for-the-badge&logo=mobx&logoColor=00F5FF" />
+</a>
+
+<!-- Creative Tools -->
+<a target="_blank" href="https://www.pico8.com/">
+  <img src="https://img.shields.io/badge/PICO--8-0A0F1F?style=for-the-badge&logo=lua&logoColor=FF00F5" />
+</a>
+<a target="_blank" href="https://processing.org/">
+  <img src="https://img.shields.io/badge/ProcessingJS-0A0F1F?style=for-the-badge&logo=processingfoundation&logoColor=00F5FF" />
+</a>
+<a target="_blank" href="https://cables.gl">
+  <img src="https://img.shields.io/badge/cables.gl-0A0F1F?style=for-the-badge&logo=webgl&logoColor=FF00F5" />
+</a>
+<a target="_blank" href="https://www.comfy.org">
+  <img src="https://img.shields.io/badge/ComfyUI-0A0F1F?style=for-the-badge&logo=python&logoColor=00F5FF" />
+</a>
+<!-- Game Engines - Neon Style -->
+
+<a target="_blank" href="https://www.unrealengine.com/">
+  <img src="https://img.shields.io/badge/Unreal--Engine-0A0F1F?style=for-the-badge&logo=unrealengine&logoColor=FF00F5" alt="Unreal Engine" />
+</a>
+
+<a target="_blank" href="https://godotengine.org/">
+  <img src="https://img.shields.io/badge/Godot-0A0F1F?style=for-the-badge&logo=godotengine&logoColor=00F5FF" alt="Godot" />
+</a>
+
+<a target="_blank" href="https://unity.com/">
+  <img src="https://img.shields.io/badge/Unity-0A0F1F?style=for-the-badge&logo=unity&logoColor=00F5FF" alt="Unity" />
+</a>
 
 <!-- ⭐ Custom Projects -->
 <a target="_blank" href="https://starcade9.github.io/os9-shell/index.html" target="_blank"><img src="https://img.shields.io/badge/stArcade9-OS-FF0050?style=for-the-badge&logo=github&logoColor=white" alt="stArcade9-OS"></a>
