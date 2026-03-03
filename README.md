@@ -18,6 +18,8 @@
 
 <a href="https://aframe.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/A--Frame-0A0F1F?style=for-the-badge&logo=aframe&logoColor=00F5FF" /></a>
 <a href="https://threejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Three.js-0A0F1F?style=for-the-badge&logo=three.js&logoColor=00F5FF" /></a>
+<a href="https://pixijs.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PixiJS-0A0F1F?style=for-the-badge&logo=pixiv&logoColor=FF00F5" /></a>
+<a href="https://www.8thwall.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/8thWall-0A0F1F?style=for-the-badge&logo=8thwall&logoColor=00F5FF" /></a>
 <a href="https://www.babylonjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Babylon.js-0A0F1F?style=for-the-badge&logo=babylon.js&logoColor=FF00F5" /></a>
 <a href="https://docs.pmnd.rs/react-three-fiber/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/R3F-0A0F1F?style=for-the-badge&logo=react&logoColor=00F5FF" /></a>
 <a href="https://github.com/brianzinn/react-babylonjs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/react--babylonjs-0A0F1F?style=for-the-badge&logo=react&logoColor=FF00F5" /></a>
