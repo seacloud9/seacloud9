@@ -38,7 +38,23 @@
 <a href="https://mobx.js.org/"><img src="https://img.shields.io/badge/MobX-0A0F1F?style=for-the-badge&logo=mobx&logoColor=00F5FF" /></a>
 
 ---
+## 🗄 CMS & Content Platforms
 
+<a href="https://www.contentful.com/"><img src="https://img.shields.io/badge/Contentful-0A0F1F?style=for-the-badge&logo=contentful&logoColor=00F5FF" /></a>
+<a href="https://www.contentstack.com/"><img src="https://img.shields.io/badge/Contentstack-0A0F1F?style=for-the-badge&logo=contentstack&logoColor=FF00F5" /></a>
+<a href="https://strapi.io/"><img src="https://img.shields.io/badge/Strapi-0A0F1F?style=for-the-badge&logo=strapi&logoColor=00F5FF" /></a>
+<a href="https://airtable.com/"><img src="https://img.shields.io/badge/Airtable-0A0F1F?style=for-the-badge&logo=airtable&logoColor=FF00F5" /></a>
+
+---
+
+## ☁ Cloud & AI Infrastructure
+
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-0A0F1F?style=for-the-badge&logo=huggingface&logoColor=00F5FF" /></a>
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0A0F1F?style=for-the-badge&logo=microsoftazure&logoColor=FF00F5" /></a>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-0A0F1F?style=for-the-badge&logo=amazonaws&logoColor=00F5FF" /></a>
+<a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-0A0F1F?style=for-the-badge&logo=googlecloud&logoColor=FF00F5" /></a>
+
+---
 ## 🎮 Game Engines
 
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-0A0F1F?style=for-the-badge&logo=unity&logoColor=00F5FF" /></a>
