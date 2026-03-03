@@ -11,7 +11,7 @@
 <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-0A0F1F?style=for-the-badge&logo=flutter&logoColor=00F5FF" /></a>
 ---
 
-## 🚀 Web & XR
+## 🚀 WebXR
 
 <a href="https://aframe.io/"><img src="https://img.shields.io/badge/A--Frame-0A0F1F?style=for-the-badge&logo=aframe&logoColor=00F5FF" /></a>
 <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-0A0F1F?style=for-the-badge&logo=three.js&logoColor=00F5FF" /></a>
