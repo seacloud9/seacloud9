@@ -95,6 +95,10 @@
 <a href="https://www.comfy.org"><img src="https://img.shields.io/badge/ComfyUI-0A0F1F?style=for-the-badge&logo=python&logoColor=00F5FF" /></a>
 
 ---
+## 🎮 Game Engines 
+<a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-0A0F1F?style=for-the-badge&logo=unity&logoColor=00F5FF" /></a> 
+<a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-0A0F1F?style=for-the-badge&logo=godotengine&logoColor=00F5FF" /></a> 
+<a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal--Engine-0A0F1F?style=for-the-badge&logo=unrealengine&logoColor=FF00F5" /></a>
 
 ## 💳 Commerce
 
