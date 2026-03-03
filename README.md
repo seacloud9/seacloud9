@@ -2,6 +2,8 @@
 
 <p>Me emere non potes; pulcherrima fingo</p>
 
+---
+
 ## 📱 Platforms
 
 <a href="https://react.dev"><img src="https://img.shields.io/badge/React-0A0F1F?style=for-the-badge&logo=react&logoColor=00F5FF" /></a>
@@ -9,6 +11,7 @@
 <a href="https://capacitorjs.com/"><img src="https://img.shields.io/badge/Capacitor-0A0F1F?style=for-the-badge&logo=capacitor&logoColor=00F5FF" /></a>
 <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-0A0F1F?style=for-the-badge&logo=electron&logoColor=00F5FF" /></a>
 <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-0A0F1F?style=for-the-badge&logo=flutter&logoColor=00F5FF" /></a>
+
 ---
 
 ## 🚀 WebXR
@@ -18,6 +21,8 @@
 <a href="https://www.babylonjs.com/"><img src="https://img.shields.io/badge/Babylon.js-0A0F1F?style=for-the-badge&logo=babylon.js&logoColor=FF00F5" /></a>
 <a href="https://docs.pmnd.rs/react-three-fiber/"><img src="https://img.shields.io/badge/R3F-0A0F1F?style=for-the-badge&logo=react&logoColor=00F5FF" /></a>
 <a href="https://github.com/brianzinn/react-babylonjs"><img src="https://img.shields.io/badge/react--babylonjs-0A0F1F?style=for-the-badge&logo=react&logoColor=FF00F5" /></a>
+<a href="https://hyperfy.io/"><img src="https://img.shields.io/badge/Hyperfy-0A0F1F?style=for-the-badge&logo=webgl&logoColor=FF00F5" /></a>
+
 ---
 
 ## 🧠 Languages & Runtime
@@ -28,6 +33,11 @@
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-0A0F1F?style=for-the-badge&logo=rust&logoColor=FF00F5" /></a>
 <a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-0A0F1F?style=for-the-badge&logo=swift&logoColor=FF00F5" /></a>
 <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-0A0F1F?style=for-the-badge&logo=kotlin&logoColor=FF00F5" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0A0F1F?style=for-the-badge&logo=python&logoColor=00F5FF" /></a>
+<a href="https://haxe.org/"><img src="https://img.shields.io/badge/Haxe-0A0F1F?style=for-the-badge&logo=haxe&logoColor=FF00F5" /></a>
+<a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-0A0F1F?style=for-the-badge&logo=lua&logoColor=00F5FF" /></a>
+<a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/Ruby-0A0F1F?style=for-the-badge&logo=ruby&logoColor=FF00F5" /></a>
+<a href="https://htmx.org/"><img src="https://img.shields.io/badge/HTMX-0A0F1F?style=for-the-badge&logo=htmx&logoColor=00F5FF" /></a>
 
 ---
 
@@ -38,6 +48,7 @@
 <a href="https://mobx.js.org/"><img src="https://img.shields.io/badge/MobX-0A0F1F?style=for-the-badge&logo=mobx&logoColor=00F5FF" /></a>
 
 ---
+
 ## 🗄 CMS & Content Platforms
 
 <a href="https://www.contentful.com/"><img src="https://img.shields.io/badge/Contentful-0A0F1F?style=for-the-badge&logo=contentful&logoColor=00F5FF" /></a>
@@ -50,22 +61,35 @@
 ## ☁ Cloud & AI Infrastructure
 
 <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-0A0F1F?style=for-the-badge&logo=huggingface&logoColor=00F5FF" /></a>
+<a href="https://aws.amazon.com/bedrock/"><img src="https://img.shields.io/badge/AWS--Bedrock-0A0F1F?style=for-the-badge&logo=amazonaws&logoColor=FF00F5" /></a>
+<a href="https://www.together.ai/"><img src="https://img.shields.io/badge/Together--AI-0A0F1F?style=for-the-badge&logo=ai&logoColor=00F5FF" /></a>
 <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0A0F1F?style=for-the-badge&logo=microsoftazure&logoColor=FF00F5" /></a>
 <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-0A0F1F?style=for-the-badge&logo=amazonaws&logoColor=00F5FF" /></a>
 <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-0A0F1F?style=for-the-badge&logo=googlecloud&logoColor=FF00F5" /></a>
 
 ---
-## 🎮 Game Engines
 
-<a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-0A0F1F?style=for-the-badge&logo=unity&logoColor=00F5FF" /></a>
-<a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-0A0F1F?style=for-the-badge&logo=godotengine&logoColor=00F5FF" /></a>
-<a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal--Engine-0A0F1F?style=for-the-badge&logo=unrealengine&logoColor=FF00F5" /></a>
+## 🗄 Data
+
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-0A0F1F?style=for-the-badge&logo=mongodb&logoColor=00F5FF" /></a>
+<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-0A0F1F?style=for-the-badge&logo=supabase&logoColor=FF00F5" /></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-0A0F1F?style=for-the-badge&logo=postgresql&logoColor=00F5FF" /></a>
+
+---
+
+## 🔌 APIs & Realtime
+
+<a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-0A0F1F?style=for-the-badge&logo=graphql&logoColor=FF00F5" /></a>
+<a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST-0A0F1F?style=for-the-badge&logo=fastapi&logoColor=00F5FF" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"><img src="https://img.shields.io/badge/WebSockets-0A0F1F?style=for-the-badge&logo=socket.io&logoColor=FF00F5" /></a>
+<a href="https://webrtc.org/"><img src="https://img.shields.io/badge/WebRTC-0A0F1F?style=for-the-badge&logo=webrtc&logoColor=00F5FF" /></a>
 
 ---
 
 ## 🛠 Creative & AI Tools
 
 <a href="https://www.pico8.com/"><img src="https://img.shields.io/badge/PICO--8-0A0F1F?style=for-the-badge&logo=lua&logoColor=FF00F5" /></a>
+<a href="https://tic80.com/"><img src="https://img.shields.io/badge/TIC--80-0A0F1F?style=for-the-badge&logo=lua&logoColor=00F5FF" /></a>
 <a href="https://processing.org/"><img src="https://img.shields.io/badge/ProcessingJS-0A0F1F?style=for-the-badge&logo=processingfoundation&logoColor=00F5FF" /></a>
 <a href="https://cables.gl"><img src="https://img.shields.io/badge/cables.gl-0A0F1F?style=for-the-badge&logo=webgl&logoColor=FF00F5" /></a>
 <a href="https://www.comfy.org"><img src="https://img.shields.io/badge/ComfyUI-0A0F1F?style=for-the-badge&logo=python&logoColor=00F5FF" /></a>
