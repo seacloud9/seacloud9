@@ -1,8 +1,7 @@
 <img src="sc9-kachina.svg" width="100%" />
 
 <p>Me emere non potes; pulcherrima fingo</p>
-<p>AI-first senior software engineer building web, mobile, 3D, and XR products, plus MCP-powered tools and workflows for faster prototyping and shipping.</p>
----
+<p>AI-first principal software engineer building web, mobile, 3D, and XR products, plus MCP-powered tools and workflows for faster prototyping and shipping.</p>
 
 ## 📱 Platforms
 
