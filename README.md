@@ -10,7 +10,7 @@ Hello, I am Brendon Smith, a senior software engineer focused on building high-i
 - Strong in React, React Native, TypeScript, Storybook, design systems, and scalable UI architecture
 - Experienced with AI-assisted workflows, LLM applications, agents, and MCP-powered tooling
 - Build immersive experiences with Babylon.js, Three.js, React Three Fiber, Unity, 8th Wall, and WebXR
-- Comfortable moving from concept to prototype to production general ambguity 
+- Comfortable moving from concept to prototype to production comfrotable working with general ambguity and little direction 
 
 ## Current Focus
 
