@@ -26,7 +26,7 @@ Hello, I am Brendon Smith, a senior software engineer focused on building high-i
 - **Applications Developer Level 4** at RSS, UC Davis
 - **Senior Software Engineer / Interim Front-End Team Lead** at King (ABK now owned by MicroSoft) focused on candy crush royalty 
 - **Frontend Engineer** at Dictionary.com
-- **Senior Software Engineer** at Akili Interactive - focused on ADHD insights react-native 
+- **Senior Software Engineer** at Akili Interactive - focused on ADHD insights react-native a moon shot it was only the second FDA approved app as a medical device. 
 - **Senior / Front-End Engineer** at CBS Interactive - Big Brother Live feeds, CBS all access now paramount+ 
 - **RIA Developer** - Hayneedle Sequoia Capital backed startup now owned by Walmart 
 - **Software Engineer** - Infogroup worked on SalesGenie.com had several superbowl ads before AWS now owned by DataAxel 
