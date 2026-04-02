@@ -23,7 +23,7 @@ Hello, I am Brendon Smith, a senior software engineer focused on building high-i
 
 - **Principal Software Engineer** in consulting 
 - **Applications Developer Level 4** at RSS, UC Davis
-- **Senior Software Engineer / Interim Front-End Team Lead** at King focused on candy crush royalty 
+- **Senior Software Engineer / Interim Front-End Team Lead** at King (ABK now owned by MicroSoft) focused on candy crush royalty 
 - **Frontend Engineer** at Dictionary.com
 - **Senior Software Engineer** at Akili Interactive - focused on ADHD insights react-native 
 - **Senior / Front-End Engineer** at CBS Interactive - Big Brother Live feeds, CBS all access now paramount+ 
