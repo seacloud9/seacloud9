@@ -10,7 +10,7 @@ Hello, I am Brendon Smith, a senior software engineer focused on building high-i
 - Strong in React, React Native, TypeScript, Storybook, design systems, and scalable UI architecture
 - Experienced with AI-assisted workflows, LLM applications, agents, and MCP-powered tooling
 - Build immersive experiences with Babylon.js, Three.js, React Three Fiber, Unity, 8th Wall, and WebXR
-- Comfortable moving from concept to prototype to production
+- Comfortable moving from concept to prototype to production general ambguity 
 
 ## Current Focus
 
@@ -21,13 +21,14 @@ Hello, I am Brendon Smith, a senior software engineer focused on building high-i
 
 ## Professional Experience
 
-
 - **Principal Software Engineer** in consulting 
 - **Applications Developer Level 4** at RSS, UC Davis
-- **Senior Software Engineer / Interim Front-End Team Lead** at King
+- **Senior Software Engineer / Interim Front-End Team Lead** at King focused on candy crush royalty 
 - **Frontend Engineer** at Dictionary.com
-- **Senior Software Engineer** at Akili Interactive
-- **Senior / Front-End Engineer** at CBS Interactive
+- **Senior Software Engineer** at Akili Interactive - focused on ADHD insights react-native 
+- **Senior / Front-End Engineer** at CBS Interactive - Big Brother Live feeds, CBS all access now paramount+ 
+- **RIA Developer** - Hayneedle Sequoia Capital backed startup now owned by Walmart 
+- **Software Engineer** - Infogroup worked on SalesGenie.com had several superbowl ads before AWS now owned by DataAxel 
 
 ## Selected Work
 
@@ -38,7 +39,7 @@ Hello, I am Brendon Smith, a senior software engineer focused on building high-i
 
 ## Technical Focus
 
-- **Front End:** React, React Native, TypeScript, Storybook, MUI, Ant Design
+- **Front End:** React, React Native, TypeScript, Storybook, MUI, Ant Design, HTMX
 - **AI / Automation:** LLM apps, LangChain, AI agents, MCP workflows, rapid prototyping
 - **3D / XR:** Babylon.js, Three.js, React Three Fiber, Unity, 8th Wall, WebXR
 - **Backend / Platform:** Node.js, Express, GraphQL, MongoDB, PostgreSQL, AWS, serverless
