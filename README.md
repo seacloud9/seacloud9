@@ -4,7 +4,7 @@
 
 Hello, I am Brendon Smith, a senior software engineer focused on building high-impact products across web, mobile, 3D, and XR. I work across front-end architecture, rapid prototyping, creative technology, and product delivery, with experience spanning media, gaming, ecommerce, content, biomedical, and software.
 
-I talk fast think fast and don't like B players
+I talk fast, think fast, act fast, and don't like B players
 
 ## About Me
 
