@@ -21,7 +21,7 @@ Hello, I am Brendon Smith, a senior software engineer focused on building high-i
 
 ## Professional Experience
 
-- **Principal Software Engineer** in consulting AI First quickly giving teams real results quickly I work indepdently under my own LLC
+- **Principal Software Engineer** in consulting AI First giving teams real results quickly I work indepdently under my own LLC
 - **Applications Developer Level 4** at RSS, UC Davis
 - **Senior Software Engineer / Interim Front-End Team Lead** at King (ABK now owned by MicroSoft) focused on candy crush royalty 
 - **Frontend Engineer** at Dictionary.com
