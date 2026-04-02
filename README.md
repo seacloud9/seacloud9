@@ -13,7 +13,7 @@ I walk fast,think fast, then talk fast, and finally act fast, and honestly I don
 - Experienced with AI-assisted workflows, LLM applications, agents, and MCP-powered tooling
 - Build immersive experiences with Babylon.js, Three.js, React Three Fiber, Unity, 8th Wall, and WebXR
 - Comfortable moving from concept to prototype to production (0-1 in under 5secs) comfrotable working with general ambguity and little direction
-- SeaCloud9 name why? Because I believed orginaly my name would be lost as a Smith. So I had to create a brand to stand out. Also it happens to be named after one of my favorite haunts in Santa Cruz Olitas formely known as SeaCloud it was also featured in the movie Lost Boys.  
+- SeaCloud9 name why? OG hacker handle one of a few. Because I believed orginaly my name would be lost as a Smith. So I had to create a brand to stand out. Also it happens to be named after one of my favorite haunts in Santa Cruz Olitas formely known as SeaCloud it was also featured in the movie Lost Boys.  
 
 ## Current Focus
 
