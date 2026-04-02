@@ -44,12 +44,6 @@ Hello, I am Brendon Smith, a senior software engineer focused on building high-i
 - **Backend / Platform:** Node.js, Express, GraphQL, MongoDB, PostgreSQL, AWS, serverless
 - **Product Areas:** CMS, ecommerce, streaming, search, gaming, biomedical, and creative tools
 
-## Current and Open Source Projects
-
-- **m{ai}geXR** for AI-assisted XR development and prototyping
-- **XRAiAssistant** for conversational scene creation and mobile-first creative tooling
-- **seacloud9** for experimental products, indie software, and creative engineering work
-
 ## Connect
 
 - GitHub: [@seacloud9](https://github.com/seacloud9)
