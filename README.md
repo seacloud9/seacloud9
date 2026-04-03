@@ -4,8 +4,6 @@
 
 Hello, I am Brendon Smith, a senior software engineer focused on building high-impact products across web, mobile, 3D, and XR. I work across front-end architecture, rapid prototyping, creative technology, and product delivery, with experience spanning media, gaming, ecommerce, content, biomedical, and software.
 
-I walk fast,think fast, then talk fast, and finally act fast, and honestly I don't like B players or bureaucracy. My first question for any startup? Who are your backers? What promises have you made? What does your runway look like? 
-
 ## About Me
 
 - 15+ years building production software and customer-facing products
@@ -25,7 +23,7 @@ I walk fast,think fast, then talk fast, and finally act fast, and honestly I don
 ## Professional Experience
 
 - **Principal Software Engineer** in consulting AI First giving teams real results quickly I work indepdently under my own LLC
-- **Applications Developer Level 4** at RSS, UC Davis - focused on special projects for example this skunk works project code "tropic thunder" and no-code aka mission credo "simple jack" creating legacy platorms for people who never asked or needed them while creating unsatisfying results for the state guided by ask me how we can improve the leadership. 
+- **Applications Developer Level 4** at RSS, UC Davis - focused on special projects the Library Managment System
 - **Senior Software Engineer / Interim Front-End Team Lead** at King (ABK now owned by MicroSoft) focused on candy crush royalty 
 - **Frontend Engineer** at Dictionary.com
 - **Senior Software Engineer** at Akili Interactive - focused on ADHD insights react-native a moon shot it was only the second FDA approved app as a medical device. 
