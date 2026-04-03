@@ -35,7 +35,7 @@ I walk fast,think fast, then talk fast, and finally act fast, and honestly I don
 
 ## Selected Work
 
-- Built products across streaming, gaming, search, ecommerce, content, and digital therapeutics
+- Built products across streaming, gaming, search, ecommerce, content, and digital therapeutics; In short I have built many products that people consider hosehold staple brands. I am the 800lb gorilla in the room but you would never know; loose lips sink ships and stealth is wealth. 
 - Developed React and React Native applications, Storybook libraries, and reusable design systems
 - Shipped AI, AR, and XR experiences using React Three Fiber, Unity, 8th Wall, and modern web tooling
 - Worked closely with product, design, analytics, and engineering teams to improve usability, performance, and delivery
