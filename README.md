@@ -21,8 +21,8 @@ I walk fast,think fast, then talk fast, and finally act fast, and honestly I don
 - Web, mobile, and XR prototyping with strong UX and practical delivery
 - MCP-powered tools and automation that reduce friction and speed up iteration
 - Creative engineering at the intersection of UI, 3D, AI, and storytelling
-- <a href="https://www.youtube.com/watch?v=nrXVYGZewd4&list=RDnrXVYGZewd4&start_radio=1" style="color: #ffffff !important; text-decoration: none;">
-  Life is a Journey Don't Stop Believing'
+- <a href="https://www.youtube.com/watch?v=nrXVYGZewd4&list=RDnrXVYGZewd4&start_radio=1" style="color: #ffffff !important; text-decoration: none !important;">
+  Life is a Journey Don't Stop Believing
 </a>
 
 ## Professional Experience
