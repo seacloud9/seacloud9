@@ -25,7 +25,7 @@ I walk fast,think fast, then talk fast, and finally act fast, and honestly I don
 ## Professional Experience
 
 - **Principal Software Engineer** in consulting AI First giving teams real results quickly I work indepdently under my own LLC
-- **Applications Developer Level 4** at RSS, UC Davis -> focused on tropic thunder and simple jack
+- **Applications Developer Level 4** at RSS, UC Davis -> focused on special project: tropic thunder and no-code aka mission "simple jack" creating legacy platorms for people who never asked or needed them while creating unsatisfying results for the state. 
 - **Senior Software Engineer / Interim Front-End Team Lead** at King (ABK now owned by MicroSoft) focused on candy crush royalty 
 - **Frontend Engineer** at Dictionary.com
 - **Senior Software Engineer** at Akili Interactive - focused on ADHD insights react-native a moon shot it was only the second FDA approved app as a medical device. 
