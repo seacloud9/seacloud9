@@ -56,7 +56,7 @@ Hello, I am Brendon Smith, a senior software engineer focused on building high-i
 <img src="sc9-kachina.svg" width="100%" />
 
 <p>Me emere non potes; pulcherrima fingo</p>
-<p> <a href="https://en.wikipedia.org/wiki/Information_wants_to_be_free">“Information wants to be free” - my favorite quote please click to read</a> </p>
+<p> <a href="https://en.wikipedia.org/wiki/Information_wants_to_be_free">“Information wants to be free”</a> </p>
 <p>AI-first principal software engineer building web, mobile, 3D, and XR products, plus MCP-powered tools and workflows for faster prototyping and shipping.</p>
 
 ## 📱 Platforms
