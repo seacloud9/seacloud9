@@ -40,7 +40,7 @@ Hello, I am Brendon Smith, a senior software engineer focused on building high-i
 
 ## Technical Focus
 
-- **Front End:** React, React Native, TypeScript, Storybook, MUI, Ant Design, HTMX
+- **Front End:** React, React Native, TypeScript, Storybook, MUI, Ant Design, HTMX < Yes Mr Smith creates expeinces that people genuienly love: only contact him if you love the people who utilize your app.  />
 - **AI / Automation:** LLM apps, LangChain, AI agents, MCP workflows, rapid prototyping
 - **3D / XR:** Babylon.js, Three.js, React Three Fiber, Unity, 8th Wall, WebXR
 - **Backend / Platform:** Node.js, Express, GraphQL, MongoDB, PostgreSQL, AWS, serverless
