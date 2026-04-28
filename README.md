@@ -16,8 +16,8 @@ Hello, I am Brendon Smith, a senior software engineer focused on building high-i
 ## Current Focus
 
 - AI-first product development and faster engineering workflows
-- Web, mobile, and XR prototyping with strong UX and practical delivery
 - MCP-powered tools and automation that reduce friction and speed up iteration
+- Web, mobile, and XR prototyping with strong UX and practical delivery
 - Creative engineering at the intersection of UI, 3D, AI, and storytelling
 
 ## Professional Experience
