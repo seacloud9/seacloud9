@@ -50,7 +50,8 @@ Hello, I am Brendon Smith, a senior software engineer focused on building high-i
 
 - GitHub: [@seacloud9](https://github.com/seacloud9)
 - LinkedIn: [Brendon Smith](https://www.linkedin.com/in/brendonsmith)
-- Portfolio: [seacloud9.studio](http://seacloud9.github.io/)
+- Portfolio: [seacloud9.studio](https://seacloud9.studio/)
+- Github Portfolio: [seacloud9.github.io](https://seacloud9.github.io/)
 - Writing: [Medium](https://medium.com/@seacloud9)
 <br />
 <img src="sc9-kachina.svg" width="100%" />
