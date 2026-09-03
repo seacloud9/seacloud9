@@ -65,6 +65,17 @@ I’m available for senior engineering, product development, technical consultin
 - [Medium](https://medium.com/@seacloud9)
 - [X](https://x.com/seacloud9)
   
+## Available for Collaboration
+
+Through SeaCloud9 Studio and Contra, I work with teams and founders who need help with:
+
+- React and Next.js applications
+- AI-enabled products and agent workflows
+- Frontend architecture and application rescue
+- Shopify and ecommerce experiences
+- Three.js, WebXR, and interactive 3D
+- Rapid prototypes that can grow into production products
+  
 <br />
 <img src="sc9-kachina.svg" width="100%" />
 
