@@ -1,58 +1,70 @@
-# Brendon Smith
+### Senior Software Engineer | Product Engineering, AI, and Immersive Experiences
 
-### Software Engineer | AI-first Web, Mobile, XR, AI Agents, and OpenClaw
+I design and build thoughtful digital products across web, mobile, artificial intelligence, and extended reality.
 
-Hello, I am Brendon Smith, a senior software engineer focused on building high-impact products across web, mobile, 3D, and XR. I work across front-end architecture, rapid prototyping, creative technology, and product delivery, with experience spanning media, gaming, ecommerce, content, biomedical, and software.
+With 15+ years of experience, I help teams move from an early concept or difficult technical problem to a usable, reliable, production-ready product. My work combines strong frontend engineering, full-stack delivery, product thinking, and a deep interest in how people experience technology.
 
-## About Me
+My core strengths include:
 
-- 15+ years building production software and customer-facing products
-- Strong in React, React Native, TypeScript, Storybook, design systems, and scalable UI architecture
-- Experienced with AI-assisted workflows, LLM applications, agents, and MCP-powered tooling
-- Build immersive experiences with Babylon.js, Three.js, React Three Fiber, Unity, 8th Wall, and WebXR
-- Comfortable moving from concept to prototype to production (0-1 in under 5secs) comfrotable working with general ambguity and little direction
-- SeaCloud9 name why? OG hacker handle one of a few. Because I believed orginaly my name would be lost as a Smith. So I had to create a brand to stand out. Also it happens to be named after one of my favorite haunts in Santa Cruz Olitas formely known as SeaCloud it was also featured in the movie Lost Boys.  
+- React, TypeScript, Next.js, React Native, and Node.js
+- Product engineering and end-to-end feature ownership
+- AI-assisted development, LLM applications, agents, and automation
+- Data-rich interfaces, design systems, and reusable component libraries
+- Three.js, Babylon.js, Unity, WebXR, and interactive 3D
+- Technical consulting, prototyping, modernization, and application rescue
+
+I work especially well with teams navigating ambiguity, building new products, or improving an existing application that has become difficult to maintain.
+
+## What I Do
+
+I help clients and product teams:
+
+- Turn ideas into working prototypes and production applications
+- Design and implement polished React and Next.js interfaces
+- Build AI-enabled workflows with practical human oversight
+- Modernize frontend architecture and component systems
+- Develop mobile, 3D, WebXR, and interactive experiences
+- Connect product strategy, user experience, and technical execution
 
 ## Current Focus
 
-- AI-first product development and faster engineering workflows
-- MCP-powered tools and automation that reduce friction and speed up iteration
-- Web, mobile, and XR prototyping with strong UX and practical delivery
-- Creative engineering at the intersection of UI, 3D, AI, and storytelling
+- AI-enabled product workflows and developer tools
+- Local and cloud-based AI agents
+- Human-guided automation and responsible AI experiences
+- React and TypeScript product engineering
+- Web, mobile, and immersive interface design
+- Creative technology with practical business value
 
-## Professional Experience
+## Selected Experience
 
-- **Principal Software Engineer** in consulting AI First giving teams real results quickly I work indepdently under my own LLC
-- **Applications Developer Level 4** at RSS, UC Davis - focused on special projects the Library Managment System
-- **Senior Software Engineer / Interim Front-End Team Lead** at King (ABK now owned by MicroSoft) focused on candy crush royalty 
-- **Frontend Engineer** at Dictionary.com
-- **Senior Software Engineer** at Akili Interactive - focused on ADHD insights react-native a moon shot it was only the second FDA approved app as a medical device. 
-- **Senior / Front-End Engineer** at CBS Interactive - Big Brother Live feeds, CBS all access now paramount+ 
-- **RIA Developer** - Hayneedle Sequoia Capital backed startup now owned by Walmart 
-- **Software Engineer** - Infogroup worked on SalesGenie.com had several superbowl ads before AWS now owned by DataAxel 
+My background includes software for:
 
-## Selected Work
+- Healthcare and digital therapeutics
+- Compliance and safety operations
+- Gaming and interactive entertainment
+- Ecommerce and payment experiences
+- Search, content, and high-traffic media
+- AI tools, creative software, and immersive products
 
-- Built products across streaming, gaming, search, ecommerce, content, and digital therapeutics; In short I have built many products that people consider hosehold staple brands.
-- Developed React and React Native applications, Storybook libraries, and reusable design systems
-- Shipped AI, AR, and XR experiences using React Three Fiber, Unity, 8th Wall, and modern web tooling
-- Worked closely with product, design, analytics, and engineering teams to improve usability, performance, and delivery
+I have worked with product, design, clinical, analytics, and engineering teams to deliver software where usability, reliability, and thoughtful execution matter.
 
-## Technical Focus
+## About SeaCloud9
 
-- **Front End:** React, React Native, TypeScript, Storybook, MUI, Ant Design, HTMX < Yes Mr Smith creates expeinces that people genuienly love: only contact him if you love the people who utilize your app.  />
-- **AI / Automation:** LLM apps, LangChain, AI agents, MCP workflows, rapid prototyping
-- **3D / XR:** Babylon.js, Three.js, React Three Fiber, Unity, 8th Wall, WebXR
-- **Backend / Platform:** Node.js, Express, GraphQL, MongoDB, PostgreSQL, AWS, serverless
-- **Product Areas:** CMS, ecommerce, streaming, search, gaming, biomedical, and creative tools
+SeaCloud9 is my independent studio for software engineering, product development, and creative technology.
 
-## Connect
+The studio brings together engineering discipline and visual imagination: practical systems, expressive interfaces, intelligent workflows, and immersive experiences that people enjoy using.
 
-- GitHub: [@seacloud9](https://github.com/seacloud9)
-- LinkedIn: [Brendon Smith](https://www.linkedin.com/in/brendonsmith)
-- Portfolio: [seacloud9.studio](https://seacloud9.studio/)
-- Github Portfolio: [seacloud9.github.io](https://seacloud9.github.io/)
-- Writing: [Medium](https://medium.com/@seacloud9)
+## Work With Me
+
+I’m available for senior engineering, product development, technical consulting, frontend architecture, AI workflows, and interactive 3D projects.
+
+- [SeaCloud9 Studio](https://seacloud9.studio) — Consulting, products, and creative technology
+- [Contra](https://contra.com/brendon_smith_axke294z/) — Services, packages, and project engagements
+- [LinkedIn](https://www.linkedin.com/in/brendonsmith)
+- [GitHub Portfolio](https://seacloud9.github.io/)
+- [Medium](https://medium.com/@seacloud9)
+- [X](https://x.com/seacloud9)
+  
 <br />
 <img src="sc9-kachina.svg" width="100%" />
 
