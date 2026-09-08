@@ -59,7 +59,7 @@ The studio brings together engineering discipline and visual imagination: practi
 I’m available for senior engineering, product development, technical consulting, frontend architecture, AI workflows, and interactive 3D projects.
 
 - [SeaCloud9 Studio](https://seacloud9.studio) — Consulting, products, and creative technology
-- [Contra](https://contra.com/brendon_smith_axke294z/) — Services, packages, and project engagements
+- [Contra](https://seacloud9.contra.com) — Services, packages, and project engagements
 - [LinkedIn](https://www.linkedin.com/in/brendonsmith)
 - [GitHub Portfolio](https://seacloud9.github.io/)
 - [Medium](https://medium.com/@seacloud9)
