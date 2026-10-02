@@ -138,6 +138,6 @@ Through SeaCloud9 Studio and Contra, I work with teams and founders who need hel
 
 ## ⭐ Personal Projects
 
-<a href="https://starcade9.github.io/os9-shell/index.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/stArcade9--OS-0A0F1F?style=for-the-badge&logo=github&logoColor=FF00F5" /></a>
-<a href="https://starcade9.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Nova--64-0A0F1F?style=for-the-badge&logo=github&logoColor=00F5FF" /></a>
-<a href="https://maigexr.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/m%7Bai%7Dge--XR-0A0F1F?style=for-the-badge&logo=vercel&logoColor=00F5FF" /></a>
+<a href="https://nova64.io/os9-shell/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/stArcade9--OS-0A0F1F?style=for-the-badge&logo=github&logoColor=FF00F5" /></a>
+<a href="https://nova64.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Nova--64-0A0F1F?style=for-the-badge&logo=github&logoColor=00F5FF" /></a>
+<a href="https://maigexr.seacloud9.studio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/m%7Bai%7Dge--XR-0A0F1F?style=for-the-badge&logo=vercel&logoColor=00F5FF" /></a>
