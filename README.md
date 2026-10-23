@@ -1,6 +1,6 @@
 ### Senior Software Engineer | Product Engineering, AI, and Immersive Experiences
 
-"SeaCloud" is the name of a restaurant in Santa Cruz, California (2nd floor Wharf) it was featured in the film "Lost Boys" it is now named "Olitas" why the number nine? Well I guess when you sit for golden hour at you will see cloud 9. 
+"SeaCloud" is the name of a restaurant in Santa Cruz, California (2nd floor Wharf) it was featured in the film "Lost Boys" it is now named "Olitas" why the number nine? Well I guess when you sit for golden hour at there you will see cloud 9. 
 
 I design and build thoughtful digital products across web, mobile, artificial intelligence, and extended reality.
 
